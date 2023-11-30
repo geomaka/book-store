@@ -1,3 +1,2 @@
-# book-store
-# book-store
-# book-store
+An online book store 
+Using the mern stack
